@@ -1,7 +1,7 @@
 const app = Vue.createApp({
     data (){
         return {
-            courseGoal: 'Smth else!'
+            courseGoal: 'Smth else again!'
         };
     }
 });
